@@ -37,7 +37,7 @@
 
 Click the following button to deploy all the resources.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/nashahz/azure-data-pipelines/master/datasets/covid-19/british-columbia/public/templates/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnashahz%2Fazure-data-pipelines%2Fmaster%2Fdatasets%2Fcovid-19%2Fdefinitive-healthcare%2Fcustomer%2Ftemplates%2Fazuredeploy.json)
 
 
 #### Configure Firewall Rule
